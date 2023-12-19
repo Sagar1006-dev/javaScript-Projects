@@ -53,11 +53,40 @@ Before you begin, ensure you have the following installed:
 Follow these steps to get the Color Scheme Switcher up and running:
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/[Your GitHub Username]/color-scheme-switcher.git
-
-
    ```bash
    git clone https://github.com/Sagar1006-dev/javaScript-Projects
 
+## About
+
+The BMI Calculator is a JavaScript project designed to help users calculate their Body Mass Index (BMI), providing an indication of whether they are underweight, normal weight, overweight, or obese based on their weight and height.
+
+## Demo
+
+[Provide a link to a live demo or showcase GIFs/images of your project in action.]
+
+## Features
+
+- Calculate BMI based on weight and height.
+- [Add more features as needed.]
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Web browser
+
+### Installation
+
+Follow these steps to get the BMI Calculator up and running:
+
+1. Clone the repository:
+
+   ```bash
+  https://github.com/Sagar1006-dev/javaScript-Projects/tree/main/02-BMI_Calculator
+Navigate to the project directory:
+
+bash
+Copy code
+cd bmi-calculator
